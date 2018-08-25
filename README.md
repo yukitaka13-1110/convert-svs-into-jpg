@@ -1,4 +1,4 @@
-# convert-from-svs-to-jpg
+# convert-svs-into-jpg
 
 ## About
 
@@ -24,11 +24,11 @@ You need for more informatin, see some help.
 
 ## Requirement
 
-for Ubuntu
+For Ubuntu
 
     $ sudo apt-get install python-openslide
     $ sudo pip install openslide-python
 
 ## Installation
 
-    $ git clone https://github.com/yukitaka13-1110/convert-from-svs-to-jpg.git
+    $ git clone https://github.com/yukitaka13-1110/convert-svs-into-jpg.git
