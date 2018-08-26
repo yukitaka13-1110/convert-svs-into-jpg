@@ -30,6 +30,7 @@ For Ubuntu
     $ sudo pip install openslide-python
     $ sudo pip install pillow
 
+  
 ## Installation
 
     $ git clone https://github.com/yukitaka13-1110/convert-svs-into-jpg.git
