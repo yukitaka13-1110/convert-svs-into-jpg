@@ -28,6 +28,7 @@ For Ubuntu
 
     $ sudo apt-get install python-openslide
     $ sudo pip install openslide-python
+    $ sudo pip install pillow
 
 ## Installation
 
