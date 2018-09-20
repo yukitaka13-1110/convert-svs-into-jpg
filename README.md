@@ -10,7 +10,7 @@ Simply, convert svs format images into jpg format images.
 
     $ python convert.py
 
-Command line options shown in the following...
+Command line options shown in the following
 
     $ python convert.py -i /path/to/input -o /path/to/output -m CPUCORE_NUM
 
